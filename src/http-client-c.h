@@ -43,7 +43,7 @@
     #include <netdb.h>
     #include <arpa/inet.h>
 #else
-	#error Platform not suppoted.
+	#error Platform not supported.
 #endif
 
 #include <errno.h>
